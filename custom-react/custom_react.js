@@ -1,0 +1,1 @@
+document.querrySelector('#root')
